@@ -5,7 +5,7 @@ import google.generativeai as genai
 st.set_page_config(page_title="AI ผู้ช่วย นศท.", page_icon="🪖")
 
 # --- นำ API KEY ที่จดไว้มาใส่ตรงนี้ ---
-API_KEY = "วางรหัส_API_KEY_ของคุณแทนที่ข้อความนี้ทั้งหมด"
+API_KEY = "RD API KEYS • ...nbbg"
 genai.configure(api_key=API_KEY)
 
 # ตั้งค่าสมอง AI
